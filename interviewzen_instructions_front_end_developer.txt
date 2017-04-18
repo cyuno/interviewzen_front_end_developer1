@@ -1,0 +1,13 @@
+Please build the layout of this landing page, as well as the form with validation.
+
+The form validation needs to check whether the field is empty, and email address format.
+
+Please build the page structure to enable mobile view.
+
+Bonus: This page needs to to work well on Chrome, Firefox, Safari, IE9/10/11, Edge
+
+Here are the assets you need:
+https://www.paloaltonetworks.com/content/dam/creative-assets/campaigns/corporate/gartner2016/landing-page/psd/gartner-MQ16-LP-desktop-nam.jpg
+https://www.paloaltonetworks.com/content/dam/creative-assets/campaigns/corporate/gartner2016/landing-page/psd/gartner-MQ16-LP-desktop-nam-background-image.jpg
+
+Good luck!
